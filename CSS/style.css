@@ -1,5 +1,65 @@
+body{
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 header{ 
     background-color: #33ccff;
-    width: 300px;
+    background-image: url(../IMG/pattern.png);
+}
+
+.logo{
+    width: 15%;
+    padding-top: 3%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+main{
+   margin-left: 100px;
+   margin-right: 100px;
+}
+
+.grigio{
+    font-size: 15px;
+    color: grey;
+}
+
+.photo{
+    font-size: 80%;
+}
+#intestazione{
+    background-color:#0099cc;
+}
+
+.corpo{
+    background-color: #99e6ff;
 }
    
+.evidenziato{
+    background-color: yellow;
+}
+
+.line{
+    background-color: yellow;
+}
+
+footer{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#monitor{
+    background-image: url(../IMG/monitor.jpg);
+    font-size: large;
+    color: white;
+    width: 15%;
+    padding-bottom: 10%;
+}
+
+#graph{
+    background-image: url(../IMG/graph.jpg);
+    font-size: large;
+    color: white;
+    width: 15%;
+    padding-bottom: 10%;
+}
